@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+    h1{
+        background-color:green;
+        color:red;
+        font-size:35px;
+        text-align:center;
+    }
+      h3,h2,h4{
+        background-color:blue;
+        color:yellow;
+        font-size:35px;
+        text-align:center;
+    }
+
+</style>
+</head>
+<body>
+<h1>welcome to our new home(name based)</h1>
+<h2 class="h2">Welcome buddy</h2>
+<h3 id="h3">Welcome friend</h3>
+<h4 id="h4">Welcome css</h4>
+</body>
+</html>
