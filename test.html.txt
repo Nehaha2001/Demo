@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <style>
+            h1{color:blue;}
+            h2{color:#00ff00;}
+            h3{color:rgb(0,100,255);}
+            h4{color:rgba(200,150,120,0.4);}
+            h5{color:hsl(355,80%,90%);}
+            h6{color:hsla(360,60%,70%,0.3);}
+
+        </style>
+    </head>
+    <body>
+        <h1>This is my name</h1>
+        <h2>This is my friend</h2>
+        <h3>This is my house</h3>
+        <h4>This is my school</h4>
+        <h5>This is the car</h5>
+        <h6>This is the bike</h6>
+    </body>
+    </html>
